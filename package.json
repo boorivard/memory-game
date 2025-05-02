@@ -1,0 +1,14 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "finalProject for sever-side programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jared and shane",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
