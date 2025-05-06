@@ -63,7 +63,7 @@ function flipCard() {
   //checks to make sure same card has not been clicked twice
   if (this === first) return;
   
-  //flip animation
+  //flip animation taken from https://github.com/code-sketch/memory-game
   this.classList.add('flip');
   
   //if first is null, make this card first
